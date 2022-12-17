@@ -1,0 +1,47 @@
+.share-buttons {
+  display: flex;
+  .facebook {
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 44px;
+    background-color: #1877f2;
+    margin: 0 10px;
+  }
+
+  .whatsapp {
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 44px;
+    background-color: #25d366;
+    margin: 0 10px;
+  }
+  .twitter {
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 44px;
+    background-color: #1da1f2;
+    margin: 0 10px;
+  }
+  .email {
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 44px;
+    background-color: $prussian-blue;
+    margin: 0 10px;
+  }
+  a:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 4px black;
+  }
+}
+
+.share-holder {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

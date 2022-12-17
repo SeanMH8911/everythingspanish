@@ -1,0 +1,23 @@
+.left-content {
+  border: 6px solid $prussian-blue;
+  padding: 40px;
+  background-color: $lemon-meringue;
+  h2 {
+    padding-bottom: 10px;
+  }
+}
+.image-content {
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .image-holder {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: $lemon-meringue;
+  }
+  img {
+    border-radius: 10px;
+  }
+}

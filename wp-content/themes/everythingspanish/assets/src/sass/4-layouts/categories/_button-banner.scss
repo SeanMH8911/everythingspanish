@@ -1,0 +1,27 @@
+.button-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .cat-button {
+    width: 100px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding: 6px;
+    color: white;
+  }
+  .cat-button:hover {
+    background-color: $lemon-meringue;
+    text-decoration: none;
+    color: $prussian-blue;
+  }
+}
+
+#button-banner {
+  background-color: $orange;
+}
+
+$prussian-blue: #003049ff;
+$maximum-red: #d62828ff;
+$orange: #f77f00ff;
+$maximum-yellow-red: #fcbf49ff;
+$lemon-meringue: #eae2b7ff;

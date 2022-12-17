@@ -1,0 +1,50 @@
+[2022-02-22 15:47:44 : INFO] - 
+ 
+[2022-02-22 15:47:44 : INFO] - Header for logs at time:  Tue, 22 Feb 2022 15:47:44 +0000 on https://everythingspanish.co.uk 
+[2022-02-22 15:47:44 : INFO] - WP: 5.9 
+[2022-02-22 15:47:44 : INFO] - PHP: 7.4.22 (cgi-fcgi, Linux hp3-ll-1011308.hostingp3.local 3.10.0-1160.53.1.el7.x86_64 #1 SMP Fri Jan 14 13:59:45 UTC 2022 x86_64) 
+[2022-02-22 15:47:44 : INFO] - MySQL: 5.6.51 
+[2022-02-22 15:47:44 : INFO] - WPLANG: en_GB 
+[2022-02-22 15:47:44 : INFO] - Server: Apache 
+[2022-02-22 15:47:44 : INFO] - Outbound connections: N 
+[2022-02-22 15:47:44 : INFO] - safe_mode: 0 
+[2022-02-22 15:47:44 : INFO] - max_execution_time: 240 
+[2022-02-22 15:47:44 : INFO] - memory_limit: 256M (used: 14.5M | 16M) 
+[2022-02-22 15:47:44 : INFO] - multisite: N 
+[2022-02-22 15:47:44 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2022-02-22 15:47:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-02-22 15:47:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-02-22 15:47:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-02-22 15:47:44 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2022-02-22 15:47:44 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : February 22, 2022 03:42:10 
+[2022-02-22 15:47:44 : INFO] - 60 
+[2022-02-22 15:47:44 : INFO] - Backing up the original image - 2022/02/sunset-bay-updraft-pre-smush-original.jpg 
+[2022-02-22 15:47:44 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : February 22, 2022 03:42:10 
+[2022-02-22 15:47:44 : INFO] - 60 
+[2022-02-22 15:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : February 22, 2022 03:42:10 
+[2022-02-22 15:47:45 : INFO] - 60 
+[2022-02-22 15:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : February 22, 2022 03:42:10 
+[2022-02-22 15:47:45 : INFO] - 60 
+[2022-02-22 15:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 295, autocreated on : February 22, 2022 03:42:10 
+[2022-02-22 15:47:45 : INFO] - 60 
+[2022-02-22 15:47:46 : INFO] - Successfully optimized the image - /home/storage/345/3734345/user/htdocs/wp-content/uploads/2022/02/sunset-bay.jpg.The file was compressed from 111.92 KB to 55.94 KB saving 50.02 percent using WP-Optimize 
+[2022-02-22 15:47:46 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2022-02-22 15:47:46 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-02-22 15:47:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-02-22 15:47:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-02-22 15:47:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-02-22 15:59:17 : INFO] - 
+ 
+[2022-02-22 15:59:17 : INFO] - Header for logs at time:  Tue, 22 Feb 2022 15:59:17 +0000 on https://everythingspanish.co.uk 
+[2022-02-22 15:59:17 : INFO] - WP: 5.9 
+[2022-02-22 15:59:17 : INFO] - PHP: 7.4.22 (cgi-fcgi, Linux hp3-ll-1011308.hostingp3.local 3.10.0-1160.53.1.el7.x86_64 #1 SMP Fri Jan 14 13:59:45 UTC 2022 x86_64) 
+[2022-02-22 15:59:17 : INFO] - MySQL: 5.6.51 
+[2022-02-22 15:59:17 : INFO] - WPLANG: en_GB 
+[2022-02-22 15:59:17 : INFO] - Server: Apache 
+[2022-02-22 15:59:17 : INFO] - Outbound connections: N 
+[2022-02-22 15:59:17 : INFO] - safe_mode: 0 
+[2022-02-22 15:59:17 : INFO] - max_execution_time: 240 
+[2022-02-22 15:59:17 : INFO] - memory_limit: 256M (used: 14.4M | 16M) 
+[2022-02-22 15:59:17 : INFO] - multisite: N 
+[2022-02-22 15:59:17 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2022-02-22 15:59:17 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

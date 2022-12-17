@@ -1,0 +1,76 @@
+/* Nav item */
+.nav-item:hover .dropdown-menu:not(.show) {
+  display: block;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar {
+  a {
+    letter-spacing: 4px;
+  }
+  button {
+    border: none;
+  }
+}
+.form-inline {
+  .input-section {
+    height: 36px;
+    border: solid 1px $prussian-blue;
+    margin-bottom: 0;
+  }
+  .search-button {
+    height: 36px;
+    border: solid 1px $prussian-blue;
+  }
+  .search-button:hover {
+    height: 36px;
+    background-color: $prussian-blue;
+    color: white;
+  }
+}
+//Second navbar css
+
+.nav-front {
+  a {
+    color: white;
+    letter-spacing: 4px;
+  }
+  button {
+    color: white;
+    border: none;
+  }
+  a:hover {
+    color: white;
+  }
+  .navbar-toggler-icon {
+    color: white;
+    z-index: 3;
+  }
+
+  .form-inline {
+    .input-section {
+      height: 36px;
+      border: solid 1px $orange-rgb;
+      background-color: transparent;
+      margin-bottom: 0;
+      color: white;
+    }
+    .search-button {
+      height: 36px;
+      border: solid 1px $orange-rgb;
+    }
+    .search-button:hover {
+      height: 36px;
+      background-color: $orange-rgb;
+      color: $prussian-blue;
+    }
+  }
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
