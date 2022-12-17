@@ -1,10 +1,2 @@
-.everythingspanish-icon-heading {
-  display: flex;
-}
-.everythingspanish-icon-heading .everythingspanish-icon-heading__heading {
-  display: flex;
-  align-items: center;
-  margin-right: 16px;
-}
-
+.everythingspanish-icon-heading{display:flex}.everythingspanish-icon-heading .everythingspanish-icon-heading__heading{align-items:center;display:flex;margin-right:16px}
 /*# sourceMappingURL=blocks.css.map*/
